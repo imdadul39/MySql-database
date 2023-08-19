@@ -10,7 +10,7 @@ $con = mysqli_connect('localhost', 'root', '', 'iaabangla');
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.1/css/bootstrap-grid.min.css">
-    <title>Multiple Select Dropdown in PHP</title>
+    <title>MySQL DataFilter in PHP</title>
 
 
     <div class="card_body">
